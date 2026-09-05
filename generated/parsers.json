@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 01:58:43",
+  "updated_at": "2026-09-05 02:41:02",
   "count": 45,
   "ports": [
     {
@@ -168,8 +168,18 @@
       "source": "https://www.pouyun.com/"
     },
     {
+      "name": "咸鱼解析",
+      "url": "https://jx.xymp4.cc/?url=",
+      "source": "https://www.pouyun.com/"
+    },
+    {
       "name": "智能云解析",
       "url": "http://v9j.net/?url=",
+      "source": "https://www.pouyun.com/"
+    },
+    {
+      "name": "极速云解析",
+      "url": "https://jx.2s0.cn/player/?url=",
       "source": "https://www.pouyun.com/"
     },
     {
@@ -198,34 +208,24 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
+      "name": "十三号解析通道",
+      "url": "https://www.1717yun.com/api/?url=",
+      "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
       "name": "十九号解析通道",
       "url": "https://jiexi.janan.net/jiexi/?url=",
+      "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
+      "name": "十五号解析通道",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
       "name": "十号解析通道【互联网聚合生成】",
       "url": "https://video.isyour.love/player/getplayer?url=",
       "source": "https://www.toolbb.com/svipjiexi"
-    },
-    {
-      "name": "†小白独家线路①解析引擎系统【已更新】",
-      "url": "https://jiexi.555959.xyz/player/?url=",
-      "source": "https://www.tvff.cn/index.html"
-    },
-    {
-      "name": "†小白独家线路②解析引擎系统【已更新】",
-      "url": "https://jx.555959.xyz/player/?url=",
-      "source": "https://www.tvff.cn/index.html"
-    },
-    {
-      "name": "①SVIP1极速解析【全网vip影视解析】",
-      "url": "https://jx.2s0.cn/player/?url=",
-      "source": "https://www.tvff.cn/index.html"
-    },
-    {
-      "name": "②SVIP2视频云VIP影视解析【全网解析】",
-      "url": "https://jx.xymp4.cc/?url=",
-      "source": "https://www.tvff.cn/index.html"
     }
   ]
 }
