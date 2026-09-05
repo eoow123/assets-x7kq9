@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-05T01:35:02Z",
+  "count": 38,
+  "items": [
+    {
+      "name": "国内直播(290台 2026-9-5)",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/iptv_cn_filtered.txt",
+      "type": "live"
+    },
+    {
+      "name": "饭太硬",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/7b47f6403128.json",
+      "type": "config",
+      "orig": "http://www.饭太硬.net/tv",
+      "sites": 48
+    },
+    {
+      "name": "肥猫",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/12befabf4c08.json",
+      "type": "config",
+      "orig": "http://肥猫.net/",
+      "sites": 39
+    },
+    {
+      "name": "老刘备",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/14ab3e9e1e71.json",
+      "type": "config",
+      "orig": "https://raw.liucn.cc/box/m.json",
+      "sites": 234
+    },
+    {
+      "name": "小马",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/5e80e97808a3.json",
+      "type": "config",
+      "orig": "https://szyyds.cn/tv/x.json",
+      "sites": 62
+    },
+    {
+      "name": "摸鱼儿_1",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/85da9ed574f1.json",
+      "type": "config",
+      "orig": "http://摸鱼儿.cc",
+      "sites": 114
+    },
+    {
+      "name": "王二小",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/e49ef330e564.json",
+      "type": "config",
+      "orig": "http://new.王二小放牛娃.top",
+      "sites": 98
+    },
+    {
+      "name": "小盒子4K",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/eb2a4fe312b0.json",
+      "type": "config",
+      "orig": "http://xhztv.top/4k.json",
+      "sites": 53
+    },
+    {
+      "name": "小盒子单仓",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/2f1a8b8cfacd.json",
+      "type": "config",
+      "orig": "http://xhztv.top/xhz",
+      "sites": 54
+    },
+    {
+      "name": "VOX",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/b7d121105209.json",
+      "type": "config",
+      "orig": "http://rihou.cc:88/demo.php",
+      "sites": 89
+    },
+    {
+      "name": "嗷呜",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/1c3d7fcb4e79.json",
+      "type": "config",
+      "orig": "http://itv666.cc/aowu/config.webp",
+      "sites": 84
+    },
+    {
+      "name": "无名",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/db29232226ae.json",
+      "type": "config",
+      "orig": "https://6800.kstore.vip/fish.json",
+      "sites": 114
+    },
+    {
+      "name": "小盒子多仓",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/76175135efab.json",
+      "type": "config",
+      "orig": "http://xhztv.top/dc",
+      "sites": 551
+    },
+    {
+      "name": "拾光多仓",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/c235f5a03e9e.json",
+      "type": "config",
+      "orig": "http://xmbjm.fh4u.org/dc.txt",
+      "sites": 1221
+    },
+    {
+      "name": "挺好分享多仓",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/1da307c2ba90.json",
+      "type": "config",
+      "orig": "http://ztha.top/TVBox/GYCK.json",
+      "sites": 417
+    },
+    {
+      "name": "摸鱼儿_2",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/7f59880c90cd.json",
+      "type": "config",
+      "orig": "http://我不是.摸鱼儿.top",
+      "sites": 114
+    },
+    {
+      "name": "俊于",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/da03bfcefdbe.json",
+      "type": "config",
+      "orig": "http://home.jundie.top:81/top98.json",
+      "sites": 24
+    },
+    {
+      "name": "橘子柚",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/b4fd3740efc4.json",
+      "type": "config",
+      "orig": "https://raw.githubusercontent.com/hackyjso/box/main/jzy.txt",
+      "sites": 93
+    },
+    {
+      "name": "电视（自用）",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/678e05b4b0f2.json",
+      "type": "config",
+      "orig": "https://qist.wyfc.qzz.io/jsm.json",
+      "sites": 170
+    },
+    {
+      "name": "潇洒 接口",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/53e889f9ec87.json",
+      "type": "config",
+      "orig": "https://qist.wyfc.qzz.io/xiaosa/api.json",
+      "sites": 125
+    },
+    {
+      "name": "饭太硬 接口",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/13311e583612.json",
+      "type": "config",
+      "orig": "https://qist.wyfc.qzz.io/fty.json",
+      "sites": 48
+    },
+    {
+      "name": "to4kacc 多仓（27 站·资源网直连）",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/3e06c8ef16eb.json",
+      "type": "config",
+      "orig": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/to4kacc-config.json",
+      "sites": 27
+    },
+    {
+      "name": "jinenge 内置源（自动更新）",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/a9f07ea76601.json",
+      "type": "config",
+      "orig": "https://raw.githubusercontent.com/jinenge/tvbox/master/tvbox.json",
+      "sites": 42
+    },
+    {
+      "name": "dxawi 0",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/3200e890dbd1.json",
+      "type": "config",
+      "orig": "https://dxawi.github.io/0/0.json",
+      "sites": 48
+    },
+    {
+      "name": "liu673cn 盒子",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/2a9da8a75c3c.json",
+      "type": "config",
+      "orig": "https://liu673cn.github.io/box/m.json",
+      "sites": 234
+    },
+    {
+      "name": "PyramidStore",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/78b8bf9180db.json",
+      "type": "config",
+      "orig": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+      "sites": 23
+    },
+    {
+      "name": "qist 大全(0821)",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/eb7cda9c49cc.json",
+      "type": "config",
+      "orig": "https://qist.wyfc.qzz.io/0821.json",
+      "sites": 85
+    },
+    {
+      "name": "TVAPP·有闪XC",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/51edee564354.json",
+      "type": "config",
+      "orig": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
+      "sites": 92
+    },
+    {
+      "name": "FongMi 配置",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/b0baa7ee68bb.json",
+      "type": "config",
+      "orig": "https://www.252035.xyz/z/FongMi.json",
+      "sites": 43
+    },
+    {
+      "name": "Meow 猫配置",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/42b96e1fec03.json",
+      "type": "config",
+      "orig": "https://cdn.jsdelivr.net/gh/anaer/Meow@main/meow.json",
+      "sites": 77
+    },
+    {
+      "name": "王二小放牛娃(新)",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/d4d42756f622.json",
+      "type": "config",
+      "orig": "https://9280.kstore.vip/newwex.json",
+      "sites": 98
+    },
+    {
+      "name": "王小二",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/9c4ddde8ee7f.json",
+      "type": "config",
+      "orig": "https://9280.kstore.space/aiwex.json",
+      "sites": 98
+    },
+    {
+      "name": "HG影视",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/e691052708d5.json",
+      "type": "config",
+      "orig": "https://api.hgyx.vip/hgyx.json",
+      "sites": 9
+    },
+    {
+      "name": "驸马",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/d6eb712add67.json",
+      "type": "config",
+      "orig": "http://fmys.top/fmys.json",
+      "sites": 82
+    },
+    {
+      "name": "游魂多仓",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/d19acff4e892.json",
+      "type": "config",
+      "orig": "https://www.iyouhun.com/tv/dc",
+      "sites": 1416
+    },
+    {
+      "name": "高天流云",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/cd361a2b02dd.json",
+      "type": "config",
+      "orig": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "sites": 297
+    },
+    {
+      "name": "香雅情",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/subs/5684ac175f19.json",
+      "type": "config",
+      "orig": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "sites": 48
+    },
+    {
+      "name": "大嘴精选直播（已筛）",
+      "url": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/bigmouth-ok.txt",
+      "type": "live"
+    }
+  ]
+}
