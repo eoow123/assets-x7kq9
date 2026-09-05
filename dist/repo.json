@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated_at": "2026-09-05T10:35:31Z",
-  "count": 40,
+  "updated_at": "2026-09-05T22:57:51Z",
+  "count": 39,
   "items": [
     {
-      "name": "国内直播(288台 2026-9-5)",
+      "name": "国内直播(290台 2026-9-6)",
       "url": "https://repo.eoow.top/generated/iptv_cn_filtered.txt",
       "type": "live"
     },
@@ -149,7 +149,7 @@
       "sites": 48
     },
     {
-      "name": "to4kacc 多仓（27 站·资源网直连）_1",
+      "name": "to4kacc 多仓（27 站·资源网直连）",
       "url": "https://repo.eoow.top/generated/subs/0cbb0c1ffe8c.json",
       "type": "config",
       "orig": "https://repo.eoow.top/generated/to4kacc-config.json",
@@ -271,14 +271,6 @@
       "name": "大嘴精选直播（已筛）",
       "url": "https://repo.eoow.top/generated/bigmouth-ok.txt",
       "type": "live"
-    },
-    {
-      "name": "to4kacc 多仓（27 站·资源网直连）_2",
-      "url": "https://repo.eoow.top/generated/subs/3e06c8ef16eb.json",
-      "type": "config",
-      "src": "snapshot",
-      "orig": "https://cdn.jsdelivr.net/gh/eoow123/juying-subscriptions@main/generated/to4kacc-config.json",
-      "sites": 27
     }
   ]
 }
