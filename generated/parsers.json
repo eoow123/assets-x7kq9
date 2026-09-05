@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05 01:23:59",
-  "count": 27,
+  "updated_at": "2026-09-05 01:58:43",
+  "count": 45,
   "ports": [
     {
       "name": "789",
@@ -58,6 +58,86 @@
       "source": "https://jxvip.z6.net.cn/"
     },
     {
+      "name": "Choose a Theater",
+      "url": "https://vipcinemas.com/clear-location",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Cannonball 6",
+      "url": "https://vipcinemas.com/vip-cannonball-6/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Carbondale 8",
+      "url": "https://vipcinemas.com/vip-carbondale/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Entertainment - Peninsula Town Center",
+      "url": "https://vipcinemas.com/vip-entertainment-hampton/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Fieldstone 6",
+      "url": "https://vipcinemas.com/vip-fieldstone-6/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Lake West Cinemas",
+      "url": "https://vipcinemas.com/lake-west-cinemas/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Legacy 9",
+      "url": "https://vipcinemas.com/vip-legacy-9/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Lincoln Grand 6",
+      "url": "https://vipcinemas.com/vip-lincoln-cinemas/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Majestic 4",
+      "url": "https://vipcinemas.com/vip-majestic-4/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Mattoon 10",
+      "url": "https://vipcinemas.com/vip-mattoon-10/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Moline 14",
+      "url": "https://vipcinemas.com/vip-moline-14/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Morton Cinemas",
+      "url": "https://vipcinemas.com/morton-cinemas/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Quincy 3",
+      "url": "https://vipcinemas.com/vip-quincy-3/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Rialto Cinemas",
+      "url": "https://vipcinemas.com/rialto-cinemas/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Roxy Cinemas",
+      "url": "https://vipcinemas.com/roxy-cinemas/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
+      "name": "VIP Star-Lite Drive-In",
+      "url": "https://vipcinemas.com/star-lite-drive-in/",
+      "source": "https://vipcinemas.com/"
+    },
+    {
       "name": "剧名/链接",
       "url": "https://z1.m1907.top/?jx=",
       "source": "https://www.nuliya.top/vip/"
@@ -88,18 +168,8 @@
       "source": "https://www.pouyun.com/"
     },
     {
-      "name": "咸鱼解析",
-      "url": "https://jx.xymp4.cc/?url=",
-      "source": "https://www.pouyun.com/"
-    },
-    {
       "name": "智能云解析",
       "url": "http://v9j.net/?url=",
-      "source": "https://www.pouyun.com/"
-    },
-    {
-      "name": "极速云解析",
-      "url": "https://jx.2s0.cn/player/?url=",
       "source": "https://www.pouyun.com/"
     },
     {
@@ -136,6 +206,26 @@
       "name": "十号解析通道【互联网聚合生成】",
       "url": "https://video.isyour.love/player/getplayer?url=",
       "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
+      "name": "†小白独家线路①解析引擎系统【已更新】",
+      "url": "https://jiexi.555959.xyz/player/?url=",
+      "source": "https://www.tvff.cn/index.html"
+    },
+    {
+      "name": "†小白独家线路②解析引擎系统【已更新】",
+      "url": "https://jx.555959.xyz/player/?url=",
+      "source": "https://www.tvff.cn/index.html"
+    },
+    {
+      "name": "①SVIP1极速解析【全网vip影视解析】",
+      "url": "https://jx.2s0.cn/player/?url=",
+      "source": "https://www.tvff.cn/index.html"
+    },
+    {
+      "name": "②SVIP2视频云VIP影视解析【全网解析】",
+      "url": "https://jx.xymp4.cc/?url=",
+      "source": "https://www.tvff.cn/index.html"
     }
   ]
 }
