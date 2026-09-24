@@ -1,0 +1,229 @@
+{
+ "files": {
+  "dist/repo.b64": {
+   "sha": "1f082091",
+   "size": 11856
+  },
+  "dist/repo.json": {
+   "sha": "97bcdd5d",
+   "size": 15415
+  },
+  "generated/iptv_cn_domestic.txt": {
+   "sha": "645fce92",
+   "size": 74402
+  },
+  "generated/iptv_cn_filtered.txt": {
+   "sha": "70101473",
+   "size": 71799
+  },
+  "generated/parsers.json": {
+   "sha": "300e226c",
+   "size": 4387
+  },
+  "generated/sources.json": {
+   "sha": "ddc2773e",
+   "size": 13983
+  },
+  "generated/subs/0982d0ff0f15.json": {
+   "sha": "171c28c0",
+   "size": 47359
+  },
+  "generated/subs/0cbb0c1ffe8c.json": {
+   "sha": "2803d464",
+   "size": 4827
+  },
+  "generated/subs/0d5f8a9a88c9.json": {
+   "sha": "d2bdd3c8",
+   "size": 226639
+  },
+  "generated/subs/12befabf4c08.json": {
+   "sha": "3a6fc213",
+   "size": 21927
+  },
+  "generated/subs/13311e583612.json": {
+   "sha": "e4ce3ad5",
+   "size": 20607
+  },
+  "generated/subs/14ab3e9e1e71.json": {
+   "sha": "3ab1872b",
+   "size": 86311
+  },
+  "generated/subs/199baa503e6b.json": {
+   "sha": "4b57e7ed",
+   "size": 28115
+  },
+  "generated/subs/1c3d7fcb4e79.json": {
+   "sha": "98db34e3",
+   "size": 34475
+  },
+  "generated/subs/1da307c2ba90.json": {
+   "sha": "245880ee",
+   "size": 91019
+  },
+  "generated/subs/2a9da8a75c3c.json": {
+   "sha": "ea098657",
+   "size": 88071
+  },
+  "generated/subs/2f1a8b8cfacd.json": {
+   "sha": "697f46a8",
+   "size": 31315
+  },
+  "generated/subs/3200e890dbd1.json": {
+   "sha": "c87e49c4",
+   "size": 19579
+  },
+  "generated/subs/3da98f610548.json": {
+   "sha": "696a21cd",
+   "size": 20775
+  },
+  "generated/subs/3e06c8ef16eb.json": {
+   "sha": "2ba8f9d9",
+   "size": 3614
+  },
+  "generated/subs/42b96e1fec03.json": {
+   "sha": "06d97dee",
+   "size": 135243
+  },
+  "generated/subs/47234dd0401c.json": {
+   "sha": "d60add80",
+   "size": 54975
+  },
+  "generated/subs/48d6f5585020.json": {
+   "sha": "16806ea6",
+   "size": 59123
+  },
+  "generated/subs/51edee564354.json": {
+   "sha": "fe703043",
+   "size": 57135
+  },
+  "generated/subs/53e889f9ec87.json": {
+   "sha": "fbbfa656",
+   "size": 47699
+  },
+  "generated/subs/5684ac175f19.json": {
+   "sha": "24eb7d92",
+   "size": 31395
+  },
+  "generated/subs/5e80e97808a3.json": {
+   "sha": "a6b822b8",
+   "size": 37391
+  },
+  "generated/subs/678e05b4b0f2.json": {
+   "sha": "e7b64b8f",
+   "size": 75535
+  },
+  "generated/subs/74144ea863d5.json": {
+   "sha": "54d69ad2",
+   "size": 9447
+  },
+  "generated/subs/76175135efab.json": {
+   "sha": "2151f5ad",
+   "size": 246443
+  },
+  "generated/subs/78b8bf9180db.json": {
+   "sha": "17b9a23a",
+   "size": 12691
+  },
+  "generated/subs/7b47f6403128.json": {
+   "sha": "a9c98e15",
+   "size": 23887
+  },
+  "generated/subs/7d90b3517182.json": {
+   "sha": "e4ccfdc4",
+   "size": 15899
+  },
+  "generated/subs/7f59880c90cd.json": {
+   "sha": "d52cbc9e",
+   "size": 51479
+  },
+  "generated/subs/85da9ed574f1.json": {
+   "sha": "2096db2b",
+   "size": 52711
+  },
+  "generated/subs/9c4ddde8ee7f.json": {
+   "sha": "1533112d",
+   "size": 40807
+  },
+  "generated/subs/a9f07ea76601.json": {
+   "sha": "984c6ed0",
+   "size": 21003
+  },
+  "generated/subs/b0baa7ee68bb.json": {
+   "sha": "82ddedca",
+   "size": 19967
+  },
+  "generated/subs/b33a77e0f2f4.json": {
+   "sha": "fe703043",
+   "size": 57135
+  },
+  "generated/subs/b4fd3740efc4.json": {
+   "sha": "ee8aee01",
+   "size": 41943
+  },
+  "generated/subs/b7d121105209.json": {
+   "sha": "751cff07",
+   "size": 33747
+  },
+  "generated/subs/baf4e45af9e1.json": {
+   "sha": "1fd4728e",
+   "size": 25747
+  },
+  "generated/subs/c235f5a03e9e.json": {
+   "sha": "4bbfd158",
+   "size": 318759
+  },
+  "generated/subs/cd361a2b02dd.json": {
+   "sha": "3d1efbec",
+   "size": 112891
+  },
+  "generated/subs/d19acff4e892.json": {
+   "sha": "51cf9cf4",
+   "size": 597151
+  },
+  "generated/subs/d4d42756f622.json": {
+   "sha": "1533112d",
+   "size": 40807
+  },
+  "generated/subs/d6eb712add67.json": {
+   "sha": "5e9f593d",
+   "size": 38387
+  },
+  "generated/subs/da03bfcefdbe.json": {
+   "sha": "63734e57",
+   "size": 16895
+  },
+  "generated/subs/db29232226ae.json": {
+   "sha": "bb57d299",
+   "size": 47959
+  },
+  "generated/subs/e49ef330e564.json": {
+   "sha": "1533112d",
+   "size": 40807
+  },
+  "generated/subs/e691052708d5.json": {
+   "sha": "222ea5e1",
+   "size": 7031
+  },
+  "generated/subs/eb2a4fe312b0.json": {
+   "sha": "b7ea7383",
+   "size": 34111
+  },
+  "generated/subs/eb7cda9c49cc.json": {
+   "sha": "d0bf9828",
+   "size": 39795
+  },
+  "generated/subs/f697c422f003.json": {
+   "sha": "9fb59630",
+   "size": 95415
+  },
+  "generated/subs_bundle.json": {
+   "sha": "daf9f713",
+   "size": 4033403
+  },
+  "generated/to4kacc-config.json": {
+   "sha": "13de771d",
+   "size": 6359
+  }
+ },
+ "version": "f227e684"
+}
