@@ -1,11 +1,11 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "e69b5f10",
+   "sha": "edb08d91",
    "size": 11856
   },
   "dist/repo.json": {
-   "sha": "ae45e1c1",
+   "sha": "9f3902c6",
    "size": 15415
   },
   "generated/iptv_cn_domestic.txt": {
@@ -13,16 +13,16 @@
    "size": 74402
   },
   "generated/iptv_cn_filtered.txt": {
-   "sha": "b124f275",
-   "size": 77658
+   "sha": "8159eb44",
+   "size": 78031
   },
   "generated/parsers.json": {
-   "sha": "0fabd925",
-   "size": 4627
+   "sha": "8827f48b",
+   "size": 4867
   },
   "generated/sources.json": {
-   "sha": "5e10330d",
-   "size": 13983
+   "sha": "8b3167c0",
+   "size": 13695
   },
   "generated/subs/0982d0ff0f15.json": {
    "sha": "171c28c0",
@@ -53,8 +53,8 @@
    "size": 28115
   },
   "generated/subs/1c3d7fcb4e79.json": {
-   "sha": "98db34e3",
-   "size": 34475
+   "sha": "fdd1d8bb",
+   "size": 34291
   },
   "generated/subs/1da307c2ba90.json": {
    "sha": "245880ee",
@@ -169,7 +169,7 @@
    "size": 25747
   },
   "generated/subs/c235f5a03e9e.json": {
-   "sha": "4bbfd158",
+   "sha": "27c49b9d",
    "size": 318759
   },
   "generated/subs/cd361a2b02dd.json": {
@@ -177,8 +177,8 @@
    "size": 112891
   },
   "generated/subs/d19acff4e892.json": {
-   "sha": "51cf9cf4",
-   "size": 597151
+   "sha": "c16b79ec",
+   "size": 596967
   },
   "generated/subs/d4d42756f622.json": {
    "sha": "1533112d",
@@ -213,17 +213,17 @@
    "size": 39795
   },
   "generated/subs/f697c422f003.json": {
-   "sha": "9fb59630",
-   "size": 95415
+   "sha": "a6dc80ee",
+   "size": 96607
   },
   "generated/subs_bundle.json": {
-   "sha": "22760a18",
-   "size": 4033403
+   "sha": "fb55f2dc",
+   "size": 4034503
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "ddb58f36"
+ "version": "2af25fd7"
 }
