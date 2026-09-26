@@ -1,11 +1,11 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "edb08d91",
+   "sha": "db2b3079",
    "size": 11856
   },
   "dist/repo.json": {
-   "sha": "9f3902c6",
+   "sha": "5729190f",
    "size": 15415
   },
   "generated/iptv_cn_domestic.txt": {
@@ -13,15 +13,15 @@
    "size": 74402
   },
   "generated/iptv_cn_filtered.txt": {
-   "sha": "8159eb44",
-   "size": 78031
+   "sha": "2dcb5da8",
+   "size": 75968
   },
   "generated/parsers.json": {
-   "sha": "8827f48b",
-   "size": 4867
+   "sha": "1d2f5b3e",
+   "size": 5079
   },
   "generated/sources.json": {
-   "sha": "8b3167c0",
+   "sha": "5255852a",
    "size": 13695
   },
   "generated/subs/0982d0ff0f15.json": {
@@ -37,8 +37,8 @@
    "size": 226639
   },
   "generated/subs/12befabf4c08.json": {
-   "sha": "3a6fc213",
-   "size": 21927
+   "sha": "ab38fa99",
+   "size": 21863
   },
   "generated/subs/13311e583612.json": {
    "sha": "e4ce3ad5",
@@ -53,8 +53,8 @@
    "size": 28115
   },
   "generated/subs/1c3d7fcb4e79.json": {
-   "sha": "fdd1d8bb",
-   "size": 34291
+   "sha": "c307e25f",
+   "size": 33563
   },
   "generated/subs/1da307c2ba90.json": {
    "sha": "245880ee",
@@ -97,8 +97,8 @@
    "size": 57135
   },
   "generated/subs/53e889f9ec87.json": {
-   "sha": "fbbfa656",
-   "size": 47699
+   "sha": "e9c355bc",
+   "size": 47283
   },
   "generated/subs/5684ac175f19.json": {
    "sha": "24eb7d92",
@@ -109,8 +109,8 @@
    "size": 37391
   },
   "generated/subs/678e05b4b0f2.json": {
-   "sha": "e7b64b8f",
-   "size": 75535
+   "sha": "2585e65f",
+   "size": 75123
   },
   "generated/subs/74144ea863d5.json": {
    "sha": "54d69ad2",
@@ -177,8 +177,8 @@
    "size": 112891
   },
   "generated/subs/d19acff4e892.json": {
-   "sha": "c16b79ec",
-   "size": 596967
+   "sha": "876816a9",
+   "size": 596251
   },
   "generated/subs/d4d42756f622.json": {
    "sha": "1533112d",
@@ -213,17 +213,17 @@
    "size": 39795
   },
   "generated/subs/f697c422f003.json": {
-   "sha": "a6dc80ee",
-   "size": 96607
+   "sha": "613b11d4",
+   "size": 96927
   },
   "generated/subs_bundle.json": {
-   "sha": "fb55f2dc",
-   "size": 4034503
+   "sha": "1262386b",
+   "size": 4031815
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "2af25fd7"
+ "version": "cd1fff36"
 }
