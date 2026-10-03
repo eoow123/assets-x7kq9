@@ -1,32 +1,32 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "8efe424a",
-   "size": 11968
+   "sha": "f2c4819a",
+   "size": 11964
   },
   "dist/repo.json": {
-   "sha": "aef60539",
-   "size": 15559
+   "sha": "4baa7773",
+   "size": 15555
   },
   "generated/bigmouth-ok.txt": {
    "sha": "fa04c5bc",
    "size": 70193
   },
   "generated/iptv_cn_domestic.txt": {
-   "sha": "e2b7c144",
-   "size": 69254
+   "sha": "b8c8f683",
+   "size": 65413
   },
   "generated/iptv_cn_filtered.txt": {
-   "sha": "65381527",
-   "size": 76930
+   "sha": "6104f38f",
+   "size": 73677
   },
   "generated/parsers.json": {
-   "sha": "c5ace2fd",
-   "size": 4395
+   "sha": "b8021773",
+   "size": 4363
   },
   "generated/sources.json": {
-   "sha": "d00b2e86",
-   "size": 12551
+   "sha": "d780442a",
+   "size": 12255
   },
   "generated/subs/07df7bf5289c.json": {
    "sha": "80ecc0c2",
@@ -49,8 +49,8 @@
    "size": 55407
   },
   "generated/subs/108118ef59e4.json": {
-   "sha": "65e19427",
-   "size": 24071
+   "sha": "d216613b",
+   "size": 24451
   },
   "generated/subs/1149e189cb4d.json": {
    "sha": "fb6e5ea0",
@@ -97,8 +97,8 @@
    "size": 51767
   },
   "generated/subs/2ed2460da5a6.json": {
-   "sha": "be8aa1d6",
-   "size": 40007
+   "sha": "34979e55",
+   "size": 40359
   },
   "generated/subs/2f1a8b8cfacd.json": {
    "sha": "697f46a8",
@@ -117,8 +117,8 @@
    "size": 24071
   },
   "generated/subs/3da98f610548.json": {
-   "sha": "696a21cd",
-   "size": 20775
+   "sha": "97b7402f",
+   "size": 18279
   },
   "generated/subs/3e06c8ef16eb.json": {
    "sha": "2ba8f9d9",
@@ -149,7 +149,7 @@
    "size": 55407
   },
   "generated/subs/53e889f9ec87.json": {
-   "sha": "54793c5d",
+   "sha": "5f7ad60c",
    "size": 46083
   },
   "generated/subs/5684ac175f19.json": {
@@ -169,8 +169,8 @@
    "size": 59123
   },
   "generated/subs/678e05b4b0f2.json": {
-   "sha": "0e7c2ff5",
-   "size": 73927
+   "sha": "bb1f5242",
+   "size": 73955
   },
   "generated/subs/67bb0309a730.json": {
    "sha": "d6a05592",
@@ -197,16 +197,16 @@
    "size": 12691
   },
   "generated/subs/7b47f6403128.json": {
-   "sha": "65e19427",
-   "size": 24071
+   "sha": "d216613b",
+   "size": 24451
   },
   "generated/subs/7d90b3517182.json": {
    "sha": "e4ccfdc4",
    "size": 15899
   },
   "generated/subs/7f59880c90cd.json": {
-   "sha": "4ed8c11d",
-   "size": 48739
+   "sha": "fbff566a",
+   "size": 43143
   },
   "generated/subs/8033f4895aa4.json": {
    "sha": "6690c246",
@@ -217,8 +217,8 @@
    "size": 104619
   },
   "generated/subs/80826f240837.json": {
-   "sha": "65e19427",
-   "size": 24071
+   "sha": "d216613b",
+   "size": 24451
   },
   "generated/subs/849fb128f0fc.json": {
    "sha": "f6ddb136",
@@ -273,12 +273,12 @@
    "size": 40807
   },
   "generated/subs/c235f5a03e9e.json": {
-   "sha": "951b2166",
-   "size": 987
+   "sha": "98a6c623",
+   "size": 867
   },
   "generated/subs/c390b97ffb40.json": {
-   "sha": "696a21cd",
-   "size": 20775
+   "sha": "97b7402f",
+   "size": 18279
   },
   "generated/subs/c68f8e764566.json": {
    "sha": "abbd89f1",
@@ -337,17 +337,17 @@
    "size": 46887
   },
   "generated/subs/f697c422f003.json": {
-   "sha": "76438833",
-   "size": 97623
+   "sha": "fe260e0a",
+   "size": 98219
   },
   "generated/subs_bundle.json": {
-   "sha": "9765c6ce",
-   "size": 1978867
+   "sha": "fad35290",
+   "size": 1969255
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "521ed844"
+ "version": "db76d8c7"
 }
