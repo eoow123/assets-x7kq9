@@ -1,31 +1,31 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "1ac52057",
-   "size": 11964
+   "sha": "85cdd99b",
+   "size": 11856
   },
   "dist/repo.json": {
-   "sha": "a1186eed",
-   "size": 15555
+   "sha": "1c14fd1c",
+   "size": 15415
   },
   "generated/bigmouth-ok.txt": {
    "sha": "fa04c5bc",
    "size": 70193
   },
   "generated/iptv_cn_domestic.txt": {
-   "sha": "420ffad2",
-   "size": 70919
+   "sha": "b38aca59",
+   "size": 66332
   },
   "generated/iptv_cn_filtered.txt": {
-   "sha": "b15ce523",
-   "size": 72510
+   "sha": "a48bde7d",
+   "size": 67733
   },
   "generated/parsers.json": {
-   "sha": "d38f41ce",
-   "size": 5231
+   "sha": "976ef9db",
+   "size": 4383
   },
   "generated/sources.json": {
-   "sha": "d7c5a492",
+   "sha": "4827345a",
    "size": 13427
   },
   "generated/subs/07df7bf5289c.json": {
@@ -133,8 +133,8 @@
    "size": 54975
   },
   "generated/subs/48d6f5585020.json": {
-   "sha": "16806ea6",
-   "size": 59123
+   "sha": "2d15192e",
+   "size": 58599
   },
   "generated/subs/49aaf00b623e.json": {
    "sha": "95a8478b",
@@ -149,7 +149,7 @@
    "size": 49519
   },
   "generated/subs/53e889f9ec87.json": {
-   "sha": "30d6be08",
+   "sha": "716b6525",
    "size": 48043
   },
   "generated/subs/5684ac175f19.json": {
@@ -165,11 +165,11 @@
    "size": 37391
   },
   "generated/subs/65588c94e960.json": {
-   "sha": "98ef97fc",
-   "size": 59379
+   "sha": "2d15192e",
+   "size": 58599
   },
   "generated/subs/678e05b4b0f2.json": {
-   "sha": "c46f88ed",
+   "sha": "3c564cf2",
    "size": 75895
   },
   "generated/subs/67bb0309a730.json": {
@@ -337,17 +337,17 @@
    "size": 46887
   },
   "generated/subs/f697c422f003.json": {
-   "sha": "46820149",
-   "size": 100339
+   "sha": "50668593",
+   "size": 101771
   },
   "generated/subs_bundle.json": {
-   "sha": "86630f5e",
-   "size": 1961299
+   "sha": "e14e87e5",
+   "size": 2041535
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "bd605f7a"
+ "version": "3e9bc352"
 }
