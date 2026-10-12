@@ -1,11 +1,11 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "38273c5e",
+   "sha": "9b170294",
    "size": 12176
   },
   "dist/repo.json": {
-   "sha": "d01252bd",
+   "sha": "c3563d47",
    "size": 15835
   },
   "generated/bigmouth-ok.txt": {
@@ -13,20 +13,20 @@
    "size": 70193
   },
   "generated/iptv_cn_domestic.txt": {
-   "sha": "9efc1eee",
-   "size": 64636
+   "sha": "46ada11a",
+   "size": 63531
   },
   "generated/iptv_cn_filtered.txt": {
-   "sha": "c74cef91",
-   "size": 70637
+   "sha": "314abd0d",
+   "size": 72064
   },
   "generated/parsers.json": {
-   "sha": "ecf4bdad",
-   "size": 4383
+   "sha": "e009b642",
+   "size": 4755
   },
   "generated/sources.json": {
-   "sha": "f480b6ed",
-   "size": 13699
+   "sha": "df684410",
+   "size": 13123
   },
   "generated/subs/07df7bf5289c.json": {
    "sha": "32c4ca79",
@@ -49,7 +49,7 @@
    "size": 50231
   },
   "generated/subs/108118ef59e4.json": {
-   "sha": "49a4031d",
+   "sha": "d680c894",
    "size": 24471
   },
   "generated/subs/1149e189cb4d.json": {
@@ -61,7 +61,7 @@
    "size": 21607
   },
   "generated/subs/13311e583612.json": {
-   "sha": "76312848",
+   "sha": "c1a29551",
    "size": 20943
   },
   "generated/subs/14ab3e9e1e71.json": {
@@ -197,7 +197,7 @@
    "size": 12691
   },
   "generated/subs/7b47f6403128.json": {
-   "sha": "49a4031d",
+   "sha": "d680c894",
    "size": 24471
   },
   "generated/subs/7d90b3517182.json": {
@@ -205,8 +205,8 @@
    "size": 15899
   },
   "generated/subs/7f59880c90cd.json": {
-   "sha": "8e9a199e",
-   "size": 45423
+   "sha": "7b1bba02",
+   "size": 45295
   },
   "generated/subs/8033f4895aa4.json": {
    "sha": "6690c246",
@@ -217,7 +217,7 @@
    "size": 104619
   },
   "generated/subs/80826f240837.json": {
-   "sha": "49a4031d",
+   "sha": "d680c894",
    "size": 24471
   },
   "generated/subs/849fb128f0fc.json": {
@@ -341,17 +341,17 @@
    "size": 46887
   },
   "generated/subs/f697c422f003.json": {
-   "sha": "db9ea046",
+   "sha": "d48b4c74",
    "size": 101863
   },
   "generated/subs_bundle.json": {
-   "sha": "0bb15d38",
-   "size": 2016151
+   "sha": "9cc4efa4",
+   "size": 2015979
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "832b3152"
+ "version": "d109e3a8"
 }
