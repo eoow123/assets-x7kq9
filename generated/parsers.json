@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16 03:37:05",
-  "count": 34,
+  "updated_at": "2026-10-17 03:36:26",
+  "count": 35,
   "ports": [
     {
       "name": "789",
@@ -30,11 +30,6 @@
     {
       "name": "接口1 LX解析",
       "url": "https://jx.lxyy.club/index.php?url=",
-      "source": "https://88lin.github.io/vip/index.html"
-    },
-    {
-      "name": "接口2 七哥解析",
-      "url": "https://jx.202617.xyz/tv.php?url=",
       "source": "https://88lin.github.io/vip/index.html"
     },
     {
@@ -103,6 +98,11 @@
       "source": "https://www.t-d.ltd/"
     },
     {
+      "name": "⑤号线路",
+      "url": "https://www.pouyun.com/?url=",
+      "source": "https://www.t-d.ltd/"
+    },
+    {
       "name": "⑥号线路",
       "url": "https://api.qianqi.net/vip/?url=",
       "source": "https://www.t-d.ltd/"
@@ -145,6 +145,11 @@
     {
       "name": "十九号解析通道",
       "url": "https://jiexi.janan.net/jiexi/?url=",
+      "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
+      "name": "十五号解析通道",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
