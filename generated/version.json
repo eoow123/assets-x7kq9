@@ -1,32 +1,28 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "ce04d045",
-   "size": 12372
+   "sha": "59c29713",
+   "size": 10052
   },
   "dist/repo.json": {
-   "sha": "d98c2109",
-   "size": 16075
+   "sha": "b160cf55",
+   "size": 13023
   },
   "generated/bigmouth-ok.txt": {
    "sha": "fa04c5bc",
    "size": 70193
   },
   "generated/iptv_cn_domestic.txt": {
-   "sha": "0c461567",
-   "size": 60693
+   "sha": "1a63edff",
+   "size": 64372
   },
   "generated/iptv_cn_filtered.txt": {
-   "sha": "84fc2f56",
-   "size": 62780
+   "sha": "8366d8f5",
+   "size": 63360
   },
   "generated/parsers.json": {
-   "sha": "4eaf13c4",
-   "size": 9191
-  },
-  "generated/sources.json": {
-   "sha": "e32a4de6",
-   "size": 16103
+   "sha": "03c8d420",
+   "size": 5190
   },
   "generated/subs/03ea8868f0e8.json": {
    "sha": "5a008c5e",
@@ -49,8 +45,8 @@
    "size": 4827
   },
   "generated/subs/0d5f8a9a88c9.json": {
-   "sha": "cb3e9980",
-   "size": 819
+   "sha": "48d33a8b",
+   "size": 479
   },
   "generated/subs/0ed0d1fa74d6.json": {
    "sha": "db8b6b23",
@@ -209,8 +205,8 @@
    "size": 24875
   },
   "generated/subs/3cf497015dbb.json": {
-   "sha": "bfc3398c",
-   "size": 931
+   "sha": "ce43f49d",
+   "size": 691
   },
   "generated/subs/3da98f610548.json": {
    "sha": "1b290e4c",
@@ -405,8 +401,8 @@
    "size": 28115
   },
   "generated/subs/8161a0d97dc5.json": {
-   "sha": "32f0437d",
-   "size": 759
+   "sha": "4e03b220",
+   "size": 531
   },
   "generated/subs/82a702e4e003.json": {
    "sha": "3546cdeb",
@@ -481,8 +477,8 @@
    "size": 32979
   },
   "generated/subs/a60e65920ea9.json": {
-   "sha": "d53caf53",
-   "size": 46911
+   "sha": "b085a7ea",
+   "size": 46907
   },
   "generated/subs/a6b23e6bd7b2.json": {
    "sha": "d2649d9f",
@@ -673,13 +669,13 @@
    "size": 419
   },
   "generated/subs_bundle.json": {
-   "sha": "1712ee3a",
-   "size": 4135815
+   "sha": "169d2ad7",
+   "size": 3763919
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "1542e9c5"
+ "version": "3b415b0c"
 }
