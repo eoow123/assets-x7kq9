@@ -1,12 +1,12 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "ad01c5c7",
-   "size": 25856
+   "sha": "4d634433",
+   "size": 9004
   },
   "dist/repo.json": {
-   "sha": "0f4f4b91",
-   "size": 33367
+   "sha": "67d21dd5",
+   "size": 11663
   },
   "generated/bigmouth-ok.txt": {
    "sha": "fa04c5bc",
@@ -653,13 +653,13 @@
    "size": 419
   },
   "generated/subs_bundle.json": {
-   "sha": "a8c24942",
-   "size": 6217631
+   "sha": "d8ec35f7",
+   "size": 3642415
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "2dbeacc0"
+ "version": "b7d94763"
 }
