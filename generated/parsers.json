@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17 19:23:18",
-  "count": 36,
+  "updated_at": "2026-10-17 19:46:30",
+  "count": 40,
   "ports": [
     {
       "name": "789",
@@ -58,9 +58,39 @@
       "source": "https://jxvip.z6.net.cn/"
     },
     {
+      "name": "https://local.yandex.com/en/checkbox",
+      "url": "https://local.yandex.com/en/checkbox",
+      "source": "https://local.yandex.com/search?text=%E6%A2%85%20%E9%BA%BB%20%E5%90%95%20%E5%A7%90%20%E5%A6%B9%20%E6%80%A7%20%E4%BA%8B%20%2B%E4%BB%B6%20%E5%85%8D%20%E8%B4%B9%20%E4%B8%8B%20%E8%BD%BD&lr=87&missword=1"
+    },
+    {
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
+    },
+    {
+      "name": "https://tv.yandex.com/en/checkbox",
+      "url": "https://tv.yandex.com/en/checkbox",
+      "source": "https://tv.yandex.com/search?text=%E6%A2%85+%E9%BA%BB+%E5%90%95+%E7%B3%BB+%E5%88%97+%E5%9C%A8+%2B%E7%BA%BF+%E8%A7%82+%E7%9C%8B&lr=21206&missword=1"
+    },
+    {
+      "name": "人员",
+      "url": "https://www.anibk.com/family/4",
+      "source": "https://www.anibk.com/family/10392"
+    },
+    {
+      "name": "公司",
+      "url": "https://www.anibk.com/family/3",
+      "source": "https://www.anibk.com/family/10392"
+    },
+    {
+      "name": "动画",
+      "url": "https://www.anibk.com/family/1",
+      "source": "https://www.anibk.com/family/10392"
+    },
+    {
+      "name": "角色",
+      "url": "https://www.anibk.com/family/2",
+      "source": "https://www.anibk.com/family/10392"
     },
     {
       "name": "剧名/链接",
@@ -143,6 +173,11 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
+      "name": "十五号解析通道",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
+      "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
       "name": "十号解析通道【互联网聚合生成】",
       "url": "https://video.isyour.love/player/getplayer?url=",
       "source": "https://www.toolbb.com/svipjiexi"
@@ -166,21 +201,6 @@
       "name": "七号解析通道",
       "url": "https://yemu.xyz/?url=",
       "source": "https://zhiyifenxiang.com/vipjiexi/"
-    },
-    {
-      "name": "EN",
-      "url": "https://zuiai.tv/i/en",
-      "source": "https://zuiai.tv/i/3396"
-    },
-    {
-      "name": "简体",
-      "url": "https://zuiai.tv/i/zh-Hans",
-      "source": "https://zuiai.tv/i/3396"
-    },
-    {
-      "name": "繁體",
-      "url": "https://zuiai.tv/i/zh-Hant",
-      "source": "https://zuiai.tv/i/3396"
     }
   ]
 }
