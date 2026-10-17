@@ -1,12 +1,12 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "4d634433",
-   "size": 9004
+   "sha": "ce04d045",
+   "size": 12372
   },
   "dist/repo.json": {
-   "sha": "67d21dd5",
-   "size": 11663
+   "sha": "d98c2109",
+   "size": 16075
   },
   "generated/bigmouth-ok.txt": {
    "sha": "fa04c5bc",
@@ -16,9 +16,17 @@
    "sha": "0c461567",
    "size": 60693
   },
+  "generated/iptv_cn_filtered.txt": {
+   "sha": "84fc2f56",
+   "size": 62780
+  },
   "generated/parsers.json": {
-   "sha": "4e499431",
-   "size": 5116
+   "sha": "4eaf13c4",
+   "size": 9191
+  },
+  "generated/sources.json": {
+   "sha": "e32a4de6",
+   "size": 16103
   },
   "generated/subs/03ea8868f0e8.json": {
    "sha": "5a008c5e",
@@ -41,8 +49,8 @@
    "size": 4827
   },
   "generated/subs/0d5f8a9a88c9.json": {
-   "sha": "48d33a8b",
-   "size": 479
+   "sha": "cb3e9980",
+   "size": 819
   },
   "generated/subs/0ed0d1fa74d6.json": {
    "sha": "db8b6b23",
@@ -53,8 +61,8 @@
    "size": 50803
   },
   "generated/subs/0f2192553daf.json": {
-   "sha": "73c90b8f",
-   "size": 50803
+   "sha": "3d4a4c7e",
+   "size": 49587
   },
   "generated/subs/108118ef59e4.json": {
    "sha": "72e91681",
@@ -201,8 +209,8 @@
    "size": 24875
   },
   "generated/subs/3cf497015dbb.json": {
-   "sha": "ce43f49d",
-   "size": 691
+   "sha": "bfc3398c",
+   "size": 931
   },
   "generated/subs/3da98f610548.json": {
    "sha": "1b290e4c",
@@ -211,6 +219,10 @@
   "generated/subs/3e06c8ef16eb.json": {
    "sha": "2ba8f9d9",
    "size": 3614
+  },
+  "generated/subs/40e1c7436895.json": {
+   "sha": "eba1b3be",
+   "size": 45227
   },
   "generated/subs/42b96e1fec03.json": {
    "sha": "a8348729",
@@ -261,8 +273,8 @@
    "size": 17071
   },
   "generated/subs/53e889f9ec87.json": {
-   "sha": "8bfcfc73",
-   "size": 48263
+   "sha": "abb9a886",
+   "size": 46319
   },
   "generated/subs/54a037811cba.json": {
    "sha": "2336c1c4",
@@ -281,8 +293,8 @@
    "size": 20063
   },
   "generated/subs/587b1f307d38.json": {
-   "sha": "c8ab65e6",
-   "size": 30751
+   "sha": "b9ef429f",
+   "size": 33531
   },
   "generated/subs/5e80e97808a3.json": {
    "sha": "9e3af8ba",
@@ -293,16 +305,16 @@
    "size": 931
   },
   "generated/subs/608f8bd6bcc8.json": {
-   "sha": "71383b5d",
-   "size": 33139
+   "sha": "2fd95306",
+   "size": 33507
   },
   "generated/subs/65588c94e960.json": {
    "sha": "0256fd1e",
    "size": 52315
   },
   "generated/subs/678e05b4b0f2.json": {
-   "sha": "b0ff4198",
-   "size": 69687
+   "sha": "ed3040e8",
+   "size": 67755
   },
   "generated/subs/67bb0309a730.json": {
    "sha": "d6a05592",
@@ -325,8 +337,8 @@
    "size": 52827
   },
   "generated/subs/736909ca5a81.json": {
-   "sha": "73c90b8f",
-   "size": 50803
+   "sha": "3d4a4c7e",
+   "size": 49587
   },
   "generated/subs/74144ea863d5.json": {
    "sha": "54d69ad2",
@@ -360,6 +372,10 @@
    "sha": "72e91681",
    "size": 24875
   },
+  "generated/subs/7c4c25aaa508.json": {
+   "sha": "c52a7acf",
+   "size": 28983
+  },
   "generated/subs/7c8235345af4.json": {
    "sha": "9cfc0273",
    "size": 56771
@@ -389,8 +405,8 @@
    "size": 28115
   },
   "generated/subs/8161a0d97dc5.json": {
-   "sha": "4e03b220",
-   "size": 531
+   "sha": "32f0437d",
+   "size": 759
   },
   "generated/subs/82a702e4e003.json": {
    "sha": "3546cdeb",
@@ -413,16 +429,16 @@
    "size": 19227
   },
   "generated/subs/87d590e86706.json": {
-   "sha": "0155194a",
-   "size": 28679
+   "sha": "50bc5515",
+   "size": 27823
   },
   "generated/subs/886a1e09524c.json": {
    "sha": "37cd48b9",
    "size": 97611
   },
   "generated/subs/8f2caf208151.json": {
-   "sha": "73c90b8f",
-   "size": 50803
+   "sha": "3d4a4c7e",
+   "size": 49587
   },
   "generated/subs/91aec88a3697.json": {
    "sha": "6bd75a2e",
@@ -465,8 +481,8 @@
    "size": 32979
   },
   "generated/subs/a60e65920ea9.json": {
-   "sha": "b085a7ea",
-   "size": 46907
+   "sha": "d53caf53",
+   "size": 46911
   },
   "generated/subs/a6b23e6bd7b2.json": {
    "sha": "d2649d9f",
@@ -484,13 +500,17 @@
    "sha": "72e91681",
    "size": 24875
   },
+  "generated/subs/afe71b7e711a.json": {
+   "sha": "ebaf1940",
+   "size": 24367
+  },
   "generated/subs/b0baa7ee68bb.json": {
    "sha": "bb6979cd",
    "size": 17603
   },
   "generated/subs/b33a77e0f2f4.json": {
-   "sha": "73c90b8f",
-   "size": 50803
+   "sha": "3d4a4c7e",
+   "size": 49587
   },
   "generated/subs/b3e3672ea08f.json": {
    "sha": "f1f798ff",
@@ -517,7 +537,7 @@
    "size": 47735
   },
   "generated/subs/c0a074df52b2.json": {
-   "sha": "2284fe8b",
+   "sha": "e5793936",
    "size": 41867
   },
   "generated/subs/c1d22ee75031.json": {
@@ -561,8 +581,8 @@
    "size": 51091
   },
   "generated/subs/d0d12b72d2dc.json": {
-   "sha": "8a8e1077",
-   "size": 28583
+   "sha": "d3d233f6",
+   "size": 27787
   },
   "generated/subs/d19acff4e892.json": {
    "sha": "00453d73",
@@ -605,11 +625,11 @@
    "size": 111559
   },
   "generated/subs/e259bf943f3e.json": {
-   "sha": "441db2df",
-   "size": 74691
+   "sha": "6377b19e",
+   "size": 72651
   },
   "generated/subs/e49ef330e564.json": {
-   "sha": "2284fe8b",
+   "sha": "e5793936",
    "size": 41867
   },
   "generated/subs/e691052708d5.json": {
@@ -637,8 +657,8 @@
    "size": 69111
   },
   "generated/subs/f697c422f003.json": {
-   "sha": "bcbec741",
-   "size": 99463
+   "sha": "b374e93c",
+   "size": 100023
   },
   "generated/subs/fc82ea45c8cb.json": {
    "sha": "f1f798ff",
@@ -653,13 +673,13 @@
    "size": 419
   },
   "generated/subs_bundle.json": {
-   "sha": "d8ec35f7",
-   "size": 3642415
+   "sha": "1712ee3a",
+   "size": 4135815
   },
   "generated/to4kacc-config.json": {
    "sha": "13de771d",
    "size": 6359
   }
  },
- "version": "b7d94763"
+ "version": "1542e9c5"
 }
