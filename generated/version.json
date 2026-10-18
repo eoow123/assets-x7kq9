@@ -1,11 +1,11 @@
 {
  "files": {
   "dist/repo.b64": {
-   "sha": "dfbf1a31",
+   "sha": "3e8fd38a",
    "size": 16336
   },
   "dist/repo.json": {
-   "sha": "b76408af",
+   "sha": "17fd1b25",
    "size": 21195
   },
   "generated/bigmouth-ok.txt": {
@@ -13,16 +13,16 @@
    "size": 70193
   },
   "generated/iptv_cn_domestic.txt": {
-   "sha": "8067567a",
-   "size": 64473
+   "sha": "42c107b9",
+   "size": 63926
   },
   "generated/iptv_cn_filtered.txt": {
-   "sha": "8f3787b0",
-   "size": 61800
+   "sha": "f1615560",
+   "size": 60879
   },
   "generated/parsers.json": {
-   "sha": "8f36b44b",
-   "size": 5108
+   "sha": "0feda04c",
+   "size": 5323
   },
   "generated/subs/03ea8868f0e8.json": {
    "sha": "5a008c5e",
@@ -841,7 +841,7 @@
    "size": 419
   },
   "generated/subs_bundle.json": {
-   "sha": "38318bb9",
+   "sha": "6a4755dd",
    "size": 5202411
   },
   "generated/to4kacc-config.json": {
@@ -849,5 +849,5 @@
    "size": 6359
   }
  },
- "version": "ca6a074c"
+ "version": "0efd689b"
 }

@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-10-18 03:38:45",
-  "count": 35,
+  "updated_at": "2026-10-19 03:38:59",
+  "count": 32,
   "ports": [
     {
       "name": "789",
       "url": "https://m.789bh.com/?url=",
-      "source": "__订阅__"
-    },
-    {
-      "name": "VIP",
-      "url": "https://6.789bh.com/?url=",
       "source": "__订阅__"
     },
     {
@@ -18,14 +13,39 @@
       "source": "__订阅__"
     },
     {
-      "name": "爱豆",
-      "url": "https://jx.aidouer.net/?url=",
-      "source": "__订阅__"
-    },
-    {
       "name": "看看",
       "url": "https://jx.m3u8.pw/?url=",
       "source": "__订阅__"
+    },
+    {
+      "name": "http://rgjtxb.jtxb.cn/CN/article/addArticleLikedNum.do",
+      "url": "http://rgjtxb.jtxb.cn/CN/article/addArticleLikedNum.do",
+      "source": "http://rgjtxb.jtxb.cn/CN/10.16553/j.cnki.issn1000-985x.2026.0057"
+    },
+    {
+      "name": "http://rgjtxb.jtxb.cn/CN/article/showArticleLikedNum.do",
+      "url": "http://rgjtxb.jtxb.cn/CN/article/showArticleLikedNum.do",
+      "source": "http://rgjtxb.jtxb.cn/CN/10.16553/j.cnki.issn1000-985x.2026.0057"
+    },
+    {
+      "name": "http://rgjtxb.jtxb.cn/CN/suppl/validateVideo.do",
+      "url": "http://rgjtxb.jtxb.cn/CN/suppl/validateVideo.do",
+      "source": "http://rgjtxb.jtxb.cn/CN/10.16553/j.cnki.issn1000-985x.2026.0057"
+    },
+    {
+      "name": "http://rgjtxb.jtxb.cn/CN/user/addCollectArticle.do",
+      "url": "http://rgjtxb.jtxb.cn/CN/user/addCollectArticle.do",
+      "source": "http://rgjtxb.jtxb.cn/CN/10.16553/j.cnki.issn1000-985x.2026.0057"
+    },
+    {
+      "name": "http://rgjtxb.jtxb.cn/CN/user/articleCollectionTimes.do?articleId=32461",
+      "url": "http://rgjtxb.jtxb.cn/CN/user/articleCollectionTimes.do?articleId=32461",
+      "source": "http://rgjtxb.jtxb.cn/CN/10.16553/j.cnki.issn1000-985x.2026.0057"
+    },
+    {
+      "name": "http://rgjtxb.jtxb.cn/CN/user/validateCollectArticle.do?articleId=32461",
+      "url": "http://rgjtxb.jtxb.cn/CN/user/validateCollectArticle.do?articleId=32461",
+      "source": "http://rgjtxb.jtxb.cn/CN/10.16553/j.cnki.issn1000-985x.2026.0057"
     },
     {
       "name": "接口1 LX解析",
@@ -83,28 +103,8 @@
       "source": "https://www.nuliya.top/vip/"
     },
     {
-      "name": "https://www.pouyun.com/jx.php",
-      "url": "https://www.pouyun.com/jx.php",
-      "source": "https://www.pouyun.com/"
-    },
-    {
-      "name": "①全能VIP解析通道",
-      "url": "https://www.quanminjiexi.com/line.php?n=0&url=",
-      "source": "https://www.quanminjiexi.com/"
-    },
-    {
-      "name": "超清VIP视频解析【多通道解析】",
-      "url": "https://www.quanminjiexi.com/jiexi/?jx=",
-      "source": "https://www.quanminjiexi.com/"
-    },
-    {
       "name": "③号线路",
       "url": "https://jx.77flv.cc/?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
-      "name": "⑤号线路",
-      "url": "https://www.pouyun.com/?url=",
       "source": "https://www.t-d.ltd/"
     },
     {
@@ -115,11 +115,6 @@
     {
       "name": "⑦号线路",
       "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
-      "name": "⑧号线路",
-      "url": "https://jx.yparse.com/index.php?url=",
       "source": "https://www.t-d.ltd/"
     },
     {
@@ -140,11 +135,6 @@
     {
       "name": "九号解析通道【JSON】",
       "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "source": "https://www.toolbb.com/svipjiexi"
-    },
-    {
-      "name": "十一号解析通道",
-      "url": "https://yparse.jn1.cc/index.php?url=",
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
@@ -171,11 +161,6 @@
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
-    },
-    {
-      "name": "七号解析通道",
-      "url": "https://yemu.xyz/?url=",
-      "source": "https://zhiyifenxiang.com/vipjiexi/"
     }
   ]
 }
