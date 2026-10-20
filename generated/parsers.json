@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 03:37:08",
+  "updated_at": "2026-10-21 03:37:06",
   "count": 32,
   "ports": [
     {
@@ -8,8 +8,18 @@
       "source": "__订阅__"
     },
     {
+      "name": "PM",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "source": "__订阅__"
+    },
+    {
       "name": "VIP",
       "url": "https://6.789bh.com/?url=",
+      "source": "__订阅__"
+    },
+    {
+      "name": "云解析",
+      "url": "https://jx.yparse.com/index.php?url=",
       "source": "__订阅__"
     },
     {
@@ -63,16 +73,6 @@
       "source": "https://passport.vip.com/login"
     },
     {
-      "name": "https://vis.vip.com/casLogin.php",
-      "url": "https://vis.vip.com/casLogin.php",
-      "source": "https://vis.vip.com/login.php"
-    },
-    {
-      "name": "https://vis.vip.com/newlogin.php",
-      "url": "https://vis.vip.com/newlogin.php",
-      "source": "https://vis.vip.com/login.php"
-    },
-    {
       "name": "剧名/链接",
       "url": "https://z1.m1907.top/?jx=",
       "source": "https://www.nuliya.top/vip/"
@@ -103,36 +103,6 @@
       "source": "https://www.quanminjiexi.com/"
     },
     {
-      "name": "③号线路",
-      "url": "https://jx.77flv.cc/?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
-      "name": "⑥号线路",
-      "url": "https://api.qianqi.net/vip/?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
-      "name": "⑦号线路",
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
-      "name": "⑧号线路",
-      "url": "https://jx.yparse.com/index.php?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
-      "name": "⑨号线路",
-      "url": "https://www.pangujiexi.com/jiexi/?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
-      "name": "⑩号线路",
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
-      "source": "https://www.t-d.ltd/"
-    },
-    {
       "name": "[默认] 一号解析通道【稳定通用】",
       "url": "https://jx.xmflv.com/?url=",
       "source": "https://www.toolbb.com/svipjiexi"
@@ -153,13 +123,43 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
+      "name": "†小白独家线路①解析引擎系统【已更新】",
+      "url": "https://jiexi.555959.xyz/player/?url=",
+      "source": "https://www.tvff.cn/index.html"
+    },
+    {
+      "name": "†小白独家线路②解析引擎系统【已更新】",
+      "url": "https://jx.555959.xyz/player/?url=",
+      "source": "https://www.tvff.cn/index.html"
+    },
+    {
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
     },
     {
+      "name": "inf",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261021",
+      "source": "https://www.vip.com/nav/53174445.html"
+    },
+    {
+      "name": "sidebar",
+      "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
+      "source": "https://www.vip.com/nav/53174445.html"
+    },
+    {
+      "name": "te-index",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261021",
+      "source": "https://www.vip.com/nav/53174445.html"
+    },
+    {
       "name": "七号解析通道",
       "url": "https://yemu.xyz/?url=",
+      "source": "https://zhiyifenxiang.com/vipjiexi/"
+    },
+    {
+      "name": "三号解析通道",
+      "url": "https://jx.77flv.cc/?url=",
       "source": "https://zhiyifenxiang.com/vipjiexi/"
     }
   ]
