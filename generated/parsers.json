@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22 03:39:03",
-  "count": 31,
+  "updated_at": "2026-10-23 03:38:59",
+  "count": 30,
   "ports": [
     {
       "name": "789",
@@ -58,11 +58,6 @@
       "source": "https://88lin.github.io/vip/index.html"
     },
     {
-      "name": "https://i.xuexitong.com/refreshQRCode",
-      "url": "https://i.xuexitong.com/refreshQRCode",
-      "source": "https://i.xuexitong.com/"
-    },
-    {
       "name": "https://api.z6.net.cn",
       "url": "https://api.z6.net.cn",
       "source": "https://jxvip.z6.net.cn/"
@@ -71,21 +66,6 @@
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
-    },
-    {
-      "name": "https://passport2.xuexitong.com/refreshQRCode",
-      "url": "https://passport2.xuexitong.com/refreshQRCode",
-      "source": "https://passport2.xuexitong.com/login"
-    },
-    {
-      "name": "https://tv.yandex.com/en/checkbox",
-      "url": "https://tv.yandex.com/en/checkbox",
-      "source": "https://tv.yandex.com/search?text=%E8%89%BE%E9%B2%A4+%E6%B5%B7%E5%B2%9B%E7%B3%BB%E5%88%97+%E5%85%A8%E9%9B%86&missword=1&lr=21414"
-    },
-    {
-      "name": "https://v31.chaoxing.com/zykmicroservice/checkLogin",
-      "url": "https://v31.chaoxing.com/zykmicroservice/checkLogin",
-      "source": "https://v31.chaoxing.com/"
     },
     {
       "name": "剧名/链接",
@@ -146,6 +126,21 @@
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
+    },
+    {
+      "name": "inf",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261023",
+      "source": "https://www.vip.com/nav/5315.html"
+    },
+    {
+      "name": "sidebar",
+      "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
+      "source": "https://www.vip.com/nav/5315.html"
+    },
+    {
+      "name": "te-index",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261023",
+      "source": "https://www.vip.com/nav/5315.html"
     },
     {
       "name": "七号解析通道",
