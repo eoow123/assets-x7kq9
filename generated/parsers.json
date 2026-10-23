@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23 03:38:59",
-  "count": 30,
+  "updated_at": "2026-10-24 03:38:49",
+  "count": 34,
   "ports": [
     {
       "name": "789",
@@ -15,6 +15,11 @@
     {
       "name": "VIP",
       "url": "https://6.789bh.com/?url=",
+      "source": "__订阅__"
+    },
+    {
+      "name": "云解析",
+      "url": "https://jx.yparse.com/index.php?url=",
       "source": "__订阅__"
     },
     {
@@ -66,6 +71,21 @@
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
+    },
+    {
+      "name": "https://support.weixin.qq.com/cgi-bin/mmsupportmeshnodelogicsvr-bin/cube",
+      "url": "https://support.weixin.qq.com/cgi-bin/mmsupportmeshnodelogicsvr-bin/cube",
+      "source": "https://passport.vip.com/login/weixin"
+    },
+    {
+      "name": "https://vis.vip.com/casLogin.php",
+      "url": "https://vis.vip.com/casLogin.php",
+      "source": "https://vis.vip.com/login.php"
+    },
+    {
+      "name": "https://vis.vip.com/newlogin.php",
+      "url": "https://vis.vip.com/newlogin.php",
+      "source": "https://vis.vip.com/login.php"
     },
     {
       "name": "剧名/链接",
@@ -129,7 +149,7 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261023",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261024",
       "source": "https://www.vip.com/nav/5315.html"
     },
     {
@@ -139,7 +159,7 @@
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261023",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261024",
       "source": "https://www.vip.com/nav/5315.html"
     },
     {
