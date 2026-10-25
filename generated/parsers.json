@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25 03:37:27",
-  "count": 34,
+  "updated_at": "2026-10-26 03:38:57",
+  "count": 36,
   "ports": [
     {
       "name": "789",
@@ -38,6 +38,11 @@
       "source": "__订阅__"
     },
     {
+      "name": "接口0 臻享解析",
+      "url": "https://aibox.eu.org/?url=",
+      "source": "https://88lin.github.io/vip/index.html"
+    },
+    {
       "name": "接口1 LX解析",
       "url": "https://jx.lxyy.club/index.php?url=",
       "source": "https://88lin.github.io/vip/index.html"
@@ -71,11 +76,6 @@
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
-    },
-    {
-      "name": "https://support.weixin.qq.com/cgi-bin/mmsupportmeshnodelogicsvr-bin/cube",
-      "url": "https://support.weixin.qq.com/cgi-bin/mmsupportmeshnodelogicsvr-bin/cube",
-      "source": "https://passport.vip.com/login/weixin"
     },
     {
       "name": "https://vis.vip.com/casLogin.php",
@@ -128,6 +128,16 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
+      "name": "十一号解析通道",
+      "url": "https://yparse.jn1.cc/index.php?url=",
+      "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
+      "name": "十五号解析通道",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
+      "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
       "name": "十号解析通道【互联网聚合生成】",
       "url": "https://video.isyour.love/player/getplayer?url=",
       "source": "https://www.toolbb.com/svipjiexi"
@@ -149,7 +159,7 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261025",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261026",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
@@ -159,7 +169,7 @@
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261025",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261026",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
