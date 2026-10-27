@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26 03:38:57",
-  "count": 36,
+  "updated_at": "2026-10-27 03:37:57",
+  "count": 29,
   "ports": [
     {
       "name": "789",
@@ -43,11 +43,6 @@
       "source": "https://88lin.github.io/vip/index.html"
     },
     {
-      "name": "接口1 LX解析",
-      "url": "https://jx.lxyy.club/index.php?url=",
-      "source": "https://88lin.github.io/vip/index.html"
-    },
-    {
       "name": "接口3 TXNP解析",
       "url": "https://bfq.txnp.cn/player?url=",
       "source": "https://88lin.github.io/vip/index.html"
@@ -76,16 +71,6 @@
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
-    },
-    {
-      "name": "https://vis.vip.com/casLogin.php",
-      "url": "https://vis.vip.com/casLogin.php",
-      "source": "https://vis.vip.com/login.php"
-    },
-    {
-      "name": "https://vis.vip.com/newlogin.php",
-      "url": "https://vis.vip.com/newlogin.php",
-      "source": "https://vis.vip.com/login.php"
     },
     {
       "name": "剧名/链接",
@@ -133,11 +118,6 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
-      "name": "十五号解析通道",
-      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
-      "source": "https://www.toolbb.com/svipjiexi"
-    },
-    {
       "name": "十号解析通道【互联网聚合生成】",
       "url": "https://video.isyour.love/player/getplayer?url=",
       "source": "https://www.toolbb.com/svipjiexi"
@@ -156,21 +136,6 @@
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
-    },
-    {
-      "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261026",
-      "source": "https://www.vip.com/nav/53174445.html"
-    },
-    {
-      "name": "sidebar",
-      "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
-      "source": "https://www.vip.com/nav/53174445.html"
-    },
-    {
-      "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261026",
-      "source": "https://www.vip.com/nav/53174445.html"
     },
     {
       "name": "七号解析通道",
