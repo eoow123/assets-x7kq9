@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28 03:39:10",
-  "count": 49,
+  "updated_at": "2026-10-29 03:37:12",
+  "count": 57,
   "ports": [
     {
       "name": "789",
@@ -20,6 +20,11 @@
     {
       "name": "云解析",
       "url": "https://jx.yparse.com/index.php?url=",
+      "source": "__订阅__"
+    },
+    {
+      "name": "亮亮",
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
       "source": "__订阅__"
     },
     {
@@ -71,6 +76,21 @@
       "name": "https://api.z6.net.cn",
       "url": "https://api.z6.net.cn",
       "source": "https://jxvip.z6.net.cn/"
+    },
+    {
+      "name": "https://api.m.jd.com",
+      "url": "https://api.m.jd.com",
+      "source": "https://mall.jd.com/index-12600480.html"
+    },
+    {
+      "name": "客服",
+      "url": "https://jdcs.jd.com/chat/index.action?venderId=",
+      "source": "https://mall.jd.com/index-12600480.html"
+    },
+    {
+      "name": "手机查看",
+      "url": "https://mall.jd.com/shop.m.jd.com/shop/home?shopId=",
+      "source": "https://mall.jd.com/index-12600480.html"
     },
     {
       "name": "captcha",
@@ -178,6 +198,26 @@
       "source": "https://www.nuliya.top/vip/"
     },
     {
+      "name": "Academic English",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/academic",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/english",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English (UK)",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/vip",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English (US)",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/vip",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
       "name": "①全能VIP解析通道",
       "url": "https://www.quanminjiexi.com/line.php?n=0&url=",
       "source": "https://www.quanminjiexi.com/"
@@ -224,7 +264,7 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261028",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261029",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
@@ -234,7 +274,7 @@
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261028",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261029",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
