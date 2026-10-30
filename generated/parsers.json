@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29 03:37:12",
-  "count": 57,
+  "updated_at": "2026-10-30 03:38:17",
+  "count": 34,
   "ports": [
     {
       "name": "789",
@@ -78,104 +78,19 @@
       "source": "https://jxvip.z6.net.cn/"
     },
     {
-      "name": "https://api.m.jd.com",
-      "url": "https://api.m.jd.com",
-      "source": "https://mall.jd.com/index-12600480.html"
-    },
-    {
-      "name": "客服",
-      "url": "https://jdcs.jd.com/chat/index.action?venderId=",
-      "source": "https://mall.jd.com/index-12600480.html"
-    },
-    {
-      "name": "手机查看",
-      "url": "https://mall.jd.com/shop.m.jd.com/shop/home?shopId=",
-      "source": "https://mall.jd.com/index-12600480.html"
-    },
-    {
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
     },
     {
-      "name": "Choose a Theater",
-      "url": "https://vipcinemas.com/clear-location",
-      "source": "https://vipcinemas.com/"
+      "name": "https://vis.vip.com/casLogin.php",
+      "url": "https://vis.vip.com/casLogin.php",
+      "source": "https://vis.vip.com/login.php"
     },
     {
-      "name": "VIP Cannonball 6",
-      "url": "https://vipcinemas.com/vip-cannonball-6/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Carbondale 8",
-      "url": "https://vipcinemas.com/vip-carbondale/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Entertainment - Peninsula Town Center",
-      "url": "https://vipcinemas.com/vip-entertainment-hampton/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Fieldstone 6",
-      "url": "https://vipcinemas.com/vip-fieldstone-6/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Lake West Cinemas",
-      "url": "https://vipcinemas.com/lake-west-cinemas/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Legacy 9",
-      "url": "https://vipcinemas.com/vip-legacy-9/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Lincoln Grand 6",
-      "url": "https://vipcinemas.com/vip-lincoln-cinemas/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Majestic 4",
-      "url": "https://vipcinemas.com/vip-majestic-4/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Mattoon 10",
-      "url": "https://vipcinemas.com/vip-mattoon-10/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Moline 14",
-      "url": "https://vipcinemas.com/vip-moline-14/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Morton Cinemas",
-      "url": "https://vipcinemas.com/morton-cinemas/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Quincy 3",
-      "url": "https://vipcinemas.com/vip-quincy-3/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Rialto Cinemas",
-      "url": "https://vipcinemas.com/rialto-cinemas/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Roxy Cinemas",
-      "url": "https://vipcinemas.com/roxy-cinemas/",
-      "source": "https://vipcinemas.com/"
-    },
-    {
-      "name": "VIP Star-Lite Drive-In",
-      "url": "https://vipcinemas.com/star-lite-drive-in/",
-      "source": "https://vipcinemas.com/"
+      "name": "https://vis.vip.com/newlogin.php",
+      "url": "https://vis.vip.com/newlogin.php",
+      "source": "https://vis.vip.com/login.php"
     },
     {
       "name": "剧名/链接",
@@ -196,26 +111,6 @@
       "name": "线路八",
       "url": "https://jx.hls.one/?url=",
       "source": "https://www.nuliya.top/vip/"
-    },
-    {
-      "name": "Academic English",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/academic",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
-      "name": "English",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/english",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
-      "name": "English (UK)",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/vip",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
-      "name": "English (US)",
-      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/vip",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
     },
     {
       "name": "①全能VIP解析通道",
@@ -248,23 +143,13 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
-      "name": "†小白独家线路①解析引擎系统【已更新】",
-      "url": "https://jiexi.555959.xyz/player/?url=",
-      "source": "https://www.tvff.cn/index.html"
-    },
-    {
-      "name": "†小白独家线路②解析引擎系统【已更新】",
-      "url": "https://jx.555959.xyz/player/?url=",
-      "source": "https://www.tvff.cn/index.html"
-    },
-    {
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261029",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261030",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
@@ -274,7 +159,7 @@
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261029",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261030",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
