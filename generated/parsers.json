@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02 03:37:50",
-  "count": 32,
+  "updated_at": "2026-11-03 03:38:11",
+  "count": 28,
   "ports": [
     {
       "name": "789",
@@ -25,11 +25,6 @@
     {
       "name": "亮亮",
       "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-      "source": "__订阅__"
-    },
-    {
-      "name": "咸鱼",
-      "url": "https://jx.xyflv.cc/?url=",
       "source": "__订阅__"
     },
     {
@@ -83,26 +78,6 @@
       "source": "https://passport.vip.com/login"
     },
     {
-      "name": "线路五",
-      "url": "https://im1907.top/?jx=",
-      "source": "https://www.kuzibang.com/"
-    },
-    {
-      "name": "线路六",
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "source": "https://www.kuzibang.com/"
-    },
-    {
-      "name": "线路四",
-      "url": "https://tv.time1080.xyz/player/?url=",
-      "source": "https://www.kuzibang.com/"
-    },
-    {
-      "name": "剧名/链接",
-      "url": "https://z1.m1907.top/?jx=",
-      "source": "https://www.nuliya.top/vip/"
-    },
-    {
       "name": "推荐二",
       "url": "https://jx.789jiexi.com/?url=",
       "source": "https://www.nuliya.top/vip/"
@@ -123,16 +98,6 @@
       "source": "https://www.quanminjiexi.com/"
     },
     {
-      "name": "超清VIP视频解析【多通道解析】",
-      "url": "https://www.quanminjiexi.com/jiexi/?jx=",
-      "source": "https://www.quanminjiexi.com/"
-    },
-    {
-      "name": "[默认] 一号解析通道【稳定通用】",
-      "url": "https://jx.xmflv.com/?url=",
-      "source": "https://www.toolbb.com/svipjiexi"
-    },
-    {
       "name": "九号解析通道【JSON】",
       "url": "https://jx.m3u8.tv/jiexi/?url=",
       "source": "https://www.toolbb.com/svipjiexi"
@@ -151,6 +116,21 @@
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
+    },
+    {
+      "name": "inf",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261103",
+      "source": "https://www.vip.com/nav/53174445.html"
+    },
+    {
+      "name": "sidebar",
+      "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
+      "source": "https://www.vip.com/nav/53174445.html"
+    },
+    {
+      "name": "te-index",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261103",
+      "source": "https://www.vip.com/nav/53174445.html"
     },
     {
       "name": "七号解析通道",
