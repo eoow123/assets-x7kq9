@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04 03:38:48",
-  "count": 35,
+  "updated_at": "2026-11-05 03:38:06",
+  "count": 32,
   "ports": [
     {
       "name": "789",
@@ -78,24 +78,9 @@
       "source": "https://jxvip.z6.net.cn/"
     },
     {
-      "name": "https://m.youku.com/html/mtop.com.youku.aplatform.weakGet",
-      "url": "https://m.youku.com/html/mtop.com.youku.aplatform.weakGet",
-      "source": "https://m.youku.com/html/download.html"
-    },
-    {
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
-    },
-    {
-      "name": "https://vis.vip.com/casLogin.php",
-      "url": "https://vis.vip.com/casLogin.php",
-      "source": "https://vis.vip.com/login.php"
-    },
-    {
-      "name": "https://vis.vip.com/newlogin.php",
-      "url": "https://vis.vip.com/newlogin.php",
-      "source": "https://vis.vip.com/login.php"
     },
     {
       "name": "剧名/链接",
@@ -154,18 +139,18 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261104",
-      "source": "https://www.vip.com/nav/53174445.html"
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261105",
+      "source": "https://www.vip.com/nav/5315.html"
     },
     {
       "name": "sidebar",
       "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
-      "source": "https://www.vip.com/nav/53174445.html"
+      "source": "https://www.vip.com/nav/5315.html"
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261104",
-      "source": "https://www.vip.com/nav/53174445.html"
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261105",
+      "source": "https://www.vip.com/nav/5315.html"
     },
     {
       "name": "七号解析通道",
