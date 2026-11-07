@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06 03:37:44",
-  "count": 32,
+  "updated_at": "2026-11-07 03:37:48",
+  "count": 29,
   "ports": [
     {
       "name": "789",
@@ -136,21 +136,6 @@
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
-    },
-    {
-      "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261106",
-      "source": "https://www.vip.com/nav/53174453.html"
-    },
-    {
-      "name": "sidebar",
-      "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
-      "source": "https://www.vip.com/nav/53174453.html"
-    },
-    {
-      "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261106",
-      "source": "https://www.vip.com/nav/53174453.html"
     },
     {
       "name": "七号解析通道",
