@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 03:38:25",
+  "updated_at": "2026-11-09 03:41:46",
   "count": 33,
   "ports": [
     {
@@ -103,6 +103,11 @@
       "source": "https://www.nuliya.top/vip/"
     },
     {
+      "name": "文章",
+      "url": "https://www.pouyun.com/_wz",
+      "source": "https://www.pouyun.com/"
+    },
+    {
       "name": "①全能VIP解析通道",
       "url": "https://www.quanminjiexi.com/line.php?n=0&url=",
       "source": "https://www.quanminjiexi.com/"
@@ -128,11 +133,6 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
-      "name": "十五号解析通道",
-      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
-      "source": "https://www.toolbb.com/svipjiexi"
-    },
-    {
       "name": "十号解析通道【互联网聚合生成】",
       "url": "https://video.isyour.love/player/getplayer?url=",
       "source": "https://www.toolbb.com/svipjiexi"
@@ -144,7 +144,7 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261108",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261109",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
@@ -154,7 +154,7 @@
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261108",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261109",
       "source": "https://www.vip.com/nav/53174445.html"
     },
     {
