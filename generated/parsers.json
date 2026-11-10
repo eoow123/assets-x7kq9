@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09 03:41:46",
-  "count": 33,
+  "updated_at": "2026-11-10 03:42:41",
+  "count": 39,
   "ports": [
     {
       "name": "789",
@@ -83,6 +83,31 @@
       "source": "https://passport.vip.com/login"
     },
     {
+      "name": "https://search.smzdm.com/ajax/suggestion/suggestion_jsonp",
+      "url": "https://search.smzdm.com/ajax/suggestion/suggestion_jsonp",
+      "source": "https://post.smzdm.com/p/axo650mw/"
+    },
+    {
+      "name": "https://wiki.smzdm.com/xhr_shared/relation_search_word_result/",
+      "url": "https://wiki.smzdm.com/xhr_shared/relation_search_word_result/",
+      "source": "https://post.smzdm.com/p/axo650mw/"
+    },
+    {
+      "name": "https://zhiyou.smzdm.com/user/info/jsonp_get_current",
+      "url": "https://zhiyou.smzdm.com/user/info/jsonp_get_current",
+      "source": "https://post.smzdm.com/p/axo650mw/"
+    },
+    {
+      "name": "1-1\\/2\\",
+      "url": "https://www.filson.com/products/1-1-2-bridle-leather-belt-brown-leather-1",
+      "source": "https://www.filson.com/products/1-1-2-bridle-leather-belt-brown-leather-1"
+    },
+    {
+      "name": "Journeyman Backpack - Otter Green",
+      "url": "https://www.filson.com/products/journeyman-backpack-otter-green-1",
+      "source": "https://www.filson.com/products/journeyman-backpack-otter-green-1"
+    },
+    {
       "name": "剧名/链接",
       "url": "https://z1.m1907.top/?jx=",
       "source": "https://www.nuliya.top/vip/"
@@ -133,6 +158,11 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
+      "name": "十五号解析通道",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
+      "source": "https://www.toolbb.com/svipjiexi"
+    },
+    {
       "name": "十号解析通道【互联网聚合生成】",
       "url": "https://video.isyour.love/player/getplayer?url=",
       "source": "https://www.toolbb.com/svipjiexi"
@@ -144,18 +174,18 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261109",
-      "source": "https://www.vip.com/nav/53174445.html"
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261110",
+      "source": "https://www.vip.com/nav/5315.html"
     },
     {
       "name": "sidebar",
       "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
-      "source": "https://www.vip.com/nav/53174445.html"
+      "source": "https://www.vip.com/nav/5315.html"
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261109",
-      "source": "https://www.vip.com/nav/53174445.html"
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261110",
+      "source": "https://www.vip.com/nav/5315.html"
     },
     {
       "name": "七号解析通道",
