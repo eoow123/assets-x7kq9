@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11 03:47:59",
-  "count": 33,
+  "updated_at": "2026-11-12 03:42:06",
+  "count": 37,
   "ports": [
     {
       "name": "789",
@@ -103,6 +103,26 @@
       "source": "https://www.nuliya.top/vip/"
     },
     {
+      "name": "Academic English",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/academic",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/english",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English (UK)",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/vip",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English (US)",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/vip",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
       "name": "文章",
       "url": "https://www.pouyun.com/_wz",
       "source": "https://www.pouyun.com/"
@@ -144,7 +164,7 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261111",
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261112",
       "source": "https://www.vip.com/nav/5315.html"
     },
     {
@@ -154,7 +174,7 @@
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261111",
+      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261112",
       "source": "https://www.vip.com/nav/5315.html"
     },
     {
