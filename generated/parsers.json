@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 03:42:06",
+  "updated_at": "2026-11-13 03:42:21",
   "count": 37,
   "ports": [
     {
@@ -164,18 +164,18 @@
     },
     {
       "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261112",
-      "source": "https://www.vip.com/nav/5315.html"
+      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261113",
+      "source": "https://www.vip.com/nav/53174448.html"
     },
     {
       "name": "sidebar",
       "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
-      "source": "https://www.vip.com/nav/5315.html"
+      "source": "https://www.vip.com/nav/53174448.html"
     },
     {
       "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index-hash-6c2d255a.js?20261112",
-      "source": "https://www.vip.com/nav/5315.html"
+      "url": "https://shop.vipstatic.com/js/public/te/6/index.js?20261113",
+      "source": "https://www.vip.com/nav/53174448.html"
     },
     {
       "name": "七号解析通道",
