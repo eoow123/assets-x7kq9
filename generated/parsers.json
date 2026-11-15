@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13 03:42:21",
-  "count": 37,
+  "updated_at": "2026-11-15 03:37:33",
+  "count": 27,
   "ports": [
     {
       "name": "789",
@@ -83,46 +83,6 @@
       "source": "https://passport.vip.com/login"
     },
     {
-      "name": "剧名/链接",
-      "url": "https://z1.m1907.top/?jx=",
-      "source": "https://www.nuliya.top/vip/"
-    },
-    {
-      "name": "推荐二",
-      "url": "https://jx.789jiexi.com/?url=",
-      "source": "https://www.nuliya.top/vip/"
-    },
-    {
-      "name": "线路七",
-      "url": "https://jx.xmflv.cc/?url=",
-      "source": "https://www.nuliya.top/vip/"
-    },
-    {
-      "name": "线路八",
-      "url": "https://jx.hls.one/?url=",
-      "source": "https://www.nuliya.top/vip/"
-    },
-    {
-      "name": "Academic English",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/academic",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
-      "name": "English",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/english",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
-      "name": "English (UK)",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/vip",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
-      "name": "English (US)",
-      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/vip",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
       "name": "文章",
       "url": "https://www.pouyun.com/_wz",
       "source": "https://www.pouyun.com/"
@@ -163,19 +123,9 @@
       "source": "https://www.tvff.cn/index.html"
     },
     {
-      "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261113",
-      "source": "https://www.vip.com/nav/53174448.html"
-    },
-    {
-      "name": "sidebar",
-      "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
-      "source": "https://www.vip.com/nav/53174448.html"
-    },
-    {
-      "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index.js?20261113",
-      "source": "https://www.vip.com/nav/53174448.html"
+      "name": "一号解析通道【推荐】",
+      "url": "https://jx.hls.one/?url=",
+      "source": "https://zhiyifenxiang.com/vipjiexi/"
     },
     {
       "name": "七号解析通道",
