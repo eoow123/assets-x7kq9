@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17 03:39:49",
-  "count": 30,
+  "updated_at": "2026-11-18 03:42:26",
+  "count": 28,
   "ports": [
     {
       "name": "789",
@@ -123,21 +123,6 @@
       "source": "https://www.tvff.cn/index.html"
     },
     {
-      "name": "inf",
-      "url": "https://shop.vipstatic.com/js/public/te/1/inf.js?20261117",
-      "source": "https://www.vip.com/nav/53174448.html"
-    },
-    {
-      "name": "sidebar",
-      "url": "https://common.vip.com/?type=sidebar&jq=0&core=0&v=132",
-      "source": "https://www.vip.com/nav/53174448.html"
-    },
-    {
-      "name": "te-index",
-      "url": "https://shop.vipstatic.com/js/public/te/6/index.js?20261117",
-      "source": "https://www.vip.com/nav/53174448.html"
-    },
-    {
       "name": "一号解析通道【推荐】",
       "url": "https://jx.hls.one/?url=",
       "source": "https://zhiyifenxiang.com/vipjiexi/"
@@ -150,6 +135,11 @@
     {
       "name": "三号解析通道",
       "url": "https://jx.77flv.cc/?url=",
+      "source": "https://zhiyifenxiang.com/vipjiexi/"
+    },
+    {
+      "name": "五号解析通道",
+      "url": "https://jx.dmflv.cc/?url=",
       "source": "https://zhiyifenxiang.com/vipjiexi/"
     }
   ]
