@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18 03:42:26",
-  "count": 28,
+  "updated_at": "2026-11-19 03:38:27",
+  "count": 32,
   "ports": [
     {
       "name": "789",
@@ -81,6 +81,26 @@
       "name": "captcha",
       "url": "https://captcha-pc.vip.com/getbootstrap",
       "source": "https://passport.vip.com/login"
+    },
+    {
+      "name": "Academic English",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/academic",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/english",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English (UK)",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/vip",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+    },
+    {
+      "name": "English (US)",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/vip",
+      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
     },
     {
       "name": "文章",
