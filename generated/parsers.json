@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19 03:38:27",
-  "count": 32,
+  "updated_at": "2026-11-20 03:39:02",
+  "count": 30,
   "ports": [
     {
       "name": "789",
@@ -83,29 +83,24 @@
       "source": "https://passport.vip.com/login"
     },
     {
-      "name": "Academic English",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/academic",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+      "name": "https://vis.vip.com/casLogin.php",
+      "url": "https://vis.vip.com/casLogin.php",
+      "source": "https://vis.vip.com/login.php"
     },
     {
-      "name": "English",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/english",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+      "name": "https://vis.vip.com/newlogin.php",
+      "url": "https://vis.vip.com/newlogin.php",
+      "source": "https://vis.vip.com/login.php"
     },
     {
-      "name": "English (UK)",
-      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/vip",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
+      "name": "https://down-statistics.18183.com/down/pack",
+      "url": "https://down-statistics.18183.com/down/pack",
+      "source": "https://www.18183.com/183youxituijian/202609/9042857.html"
     },
     {
-      "name": "English (US)",
-      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/vip",
-      "source": "https://www.oxfordlearnersdictionaries.com/definition/english/vip"
-    },
-    {
-      "name": "文章",
-      "url": "https://www.pouyun.com/_wz",
-      "source": "https://www.pouyun.com/"
+      "name": "https://ka.18183.com/api/get-by-kuid.shtml?kuid=",
+      "url": "https://ka.18183.com/api/get-by-kuid.shtml?kuid=",
+      "source": "https://www.18183.com/183youxituijian/202609/9042857.html"
     },
     {
       "name": "①全能VIP解析通道",
@@ -155,11 +150,6 @@
     {
       "name": "三号解析通道",
       "url": "https://jx.77flv.cc/?url=",
-      "source": "https://zhiyifenxiang.com/vipjiexi/"
-    },
-    {
-      "name": "五号解析通道",
-      "url": "https://jx.dmflv.cc/?url=",
       "source": "https://zhiyifenxiang.com/vipjiexi/"
     }
   ]
