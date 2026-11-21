@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20 03:39:02",
-  "count": 30,
+  "updated_at": "2026-11-21 03:38:50",
+  "count": 26,
   "ports": [
     {
       "name": "789",
@@ -83,26 +83,6 @@
       "source": "https://passport.vip.com/login"
     },
     {
-      "name": "https://vis.vip.com/casLogin.php",
-      "url": "https://vis.vip.com/casLogin.php",
-      "source": "https://vis.vip.com/login.php"
-    },
-    {
-      "name": "https://vis.vip.com/newlogin.php",
-      "url": "https://vis.vip.com/newlogin.php",
-      "source": "https://vis.vip.com/login.php"
-    },
-    {
-      "name": "https://down-statistics.18183.com/down/pack",
-      "url": "https://down-statistics.18183.com/down/pack",
-      "source": "https://www.18183.com/183youxituijian/202609/9042857.html"
-    },
-    {
-      "name": "https://ka.18183.com/api/get-by-kuid.shtml?kuid=",
-      "url": "https://ka.18183.com/api/get-by-kuid.shtml?kuid=",
-      "source": "https://www.18183.com/183youxituijian/202609/9042857.html"
-    },
-    {
       "name": "①全能VIP解析通道",
       "url": "https://www.quanminjiexi.com/line.php?n=0&url=",
       "source": "https://www.quanminjiexi.com/"
@@ -128,11 +108,6 @@
       "source": "https://www.toolbb.com/svipjiexi"
     },
     {
-      "name": "十号解析通道【互联网聚合生成】",
-      "url": "https://video.isyour.love/player/getplayer?url=",
-      "source": "https://www.toolbb.com/svipjiexi"
-    },
-    {
       "name": "②SVIP2视频云VIP影视解析【全网解析】",
       "url": "https://jx.xymp4.cc/?url=",
       "source": "https://www.tvff.cn/index.html"
@@ -150,6 +125,11 @@
     {
       "name": "三号解析通道",
       "url": "https://jx.77flv.cc/?url=",
+      "source": "https://zhiyifenxiang.com/vipjiexi/"
+    },
+    {
+      "name": "五号解析通道",
+      "url": "https://jx.dmflv.cc/?url=",
       "source": "https://zhiyifenxiang.com/vipjiexi/"
     }
   ]
